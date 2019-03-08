@@ -1,2 +1,2 @@
 # uniform_distance_sampling
-uniform distance sampling from ShortStraw: A Simple and Effective Corner Finder for Polylines
+implementation of the resampling methods in the ShortStraw: A Simple and Effective Corner Finder for Polylines
